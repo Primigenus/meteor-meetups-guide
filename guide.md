@@ -28,70 +28,58 @@ The first thing you should do when you join is let everyone know you&rsquo;re he
 With introductions out of the way, we&rsquo;ve taken the time to gather up some things we think will be helpful for new Captains. Have a read, and if you see anything you&rsquo;d like to change or something you want to add, go ahead! This document should live and breathe the Captains&rsquo; POVs, after all.
 
 **Things new Captains should know**
-<undefined><li>**Meteor community hotspots**</li></undefined>
+**Meteor community hotspots**
 
 Knowing where people hang out and ask questions about Meteor will help you keep up to date with issues and concerns in the community as well as new announcements, packages, startups and other third party software using Meteor. We recommend the below places to come back to regularly:
 
 *   [Meteor roadmap](https://roadmap.meteor.com)
-
-*   The official MDG roadmap for Meteor. It&rsquo;s good to have a general idea of what was recently released (left-most column), what&rsquo;s coming soon, and what people are really anxious to get their hands on (check the comments on each card).
+    The official MDG roadmap for Meteor. It&rsquo;s good to have a general idea of what was recently released (left-most column), what&rsquo;s coming soon, and what people are really anxious to get their hands on (check the comments on each card).
 
 *   [Crater.io](https://crater.io)
-
-*   Launched by Josh Owens, creators of Meteor Podcast and author of Testing Meteor, this is a Telescope-based &quot;Hacker News&quot; clone for Meteorites!
+    Launched by Josh Owens, creators of Meteor Podcast and author of Testing Meteor, this is a Telescope-based &quot;Hacker News&quot; clone for Meteorites!
 
 *   [Kadira Hub](https://hub.kadira.io)
-
-*   Another Telescope-based forum for discussing Meteor, specifically focused on performance-related issues and concerns. A partner site to the incredible live metrics app [Kadira](https://kadira.io) by Arunoda.
+    Another Telescope-based forum for discussing Meteor, specifically focused on performance-related issues and concerns. A partner site to the incredible live metrics app [Kadira](https://kadira.io) by Arunoda.
 
 *   meteorjs IRC channel
-
-*   Lurking here gives you a good idea of what Meteor newbies are coming across.
+    Lurking here gives you a good idea of what Meteor newbies are coming across.
 
 *   meteor-talk &amp; meteor-core
-
-*   meteor-talk is the MDG-supported newsgroup for everything Meteor. At this point there&rsquo;s a lot of noise, but setting it to be emailed as a digest allows you to give it a quick glance once a week to see what&rsquo;s going on.
-*   meteor-core is where discussion between developers and MDG happens about critical elements of Meteor, and where you&rsquo;ll find announcements of early alphas, betas, and release candidates of the next version of Meteor.
+    meteor-talk is the MDG-supported newsgroup for everything Meteor. At this point there&rsquo;s a lot of noise, but setting it to be emailed as a digest allows you to give it a quick glance once a week to see what&rsquo;s going on.
+    meteor-core is where discussion between developers and MDG happens about critical elements of Meteor, and where you&rsquo;ll find announcements of early alphas, betas, and release candidates of the next version of Meteor.
 
 *   [Stack Overflow meteor tag](http://stackoverflow.com/tags/meteor)
-
-*   Check out this tag to get a sense of what issues Meteor developers are dealing with in real-time, or take a look at the most upvoted and most active questions for a comprehensive view of the burning questions you&rsquo;re likely to hear at your first meetup :-)
-*   It also pays off to dive in and help out on here as you&rsquo;ll build a network and get really good at answering recurring questions.
+    Check out this tag to get a sense of what issues Meteor developers are dealing with in real-time, or take a look at the most upvoted and most active questions for a comprehensive view of the burning questions you&rsquo;re likely to hear at your first meetup :-)
+    It also pays off to dive in and help out on here as you&rsquo;ll build a network and get really good at answering recurring questions.
 
 *   [Github](https://github.com/meteor/meteor/issues) issues
+    Bugs and patches for Meteor are generally reported here and this can be a good place to check just after a new release in case some hairy things are going on.
 
-*   Bugs and patches for Meteor are generally reported here and this can be a good place to check just after a new release in case some hairy things are going on.
-
-<undefined><li>**Resources in the Meteor community**</li></undefined>
+**Resources in the Meteor community**
 
 Knowing what&rsquo;s going on in the community is one step, but it&rsquo;s also important to have an up-to-date sense of what the best resources are for learning Meteor and getting better at it. Many software developers will be transitioning from a different platform to Meteor, but you should also keep in mind there will be plenty of fresh faces starting out with programming with Meteor, as well as more experienced devs looking to hone and improve their skills. Here are some resources you can refer them to:
 
 *   [Official Meteor docs](http://docs.meteor.com/) and [unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
-*   <u>[Discover Meteor](http://www.discovermeteor.com/)</u>, by Tom Coleman and Sacha Greif
 
-*   Comprehensive ebook for all levels, assumes some prior JavaScript/programming experience
+*   <u>[Discover Meteor](http://www.discovermeteor.com/)</u>, by Tom Coleman and Sacha Greif
+    Comprehensive ebook for all levels, assumes some prior JavaScript/programming experience
 
 *   <u>[How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)</u>, by Richard Bovell
-
-*   Learning roadmaps for JavaScript beginners and first-time programmers
+    Learning roadmaps for JavaScript beginners and first-time programmers
 
 *   [Meteor Academy](https://meteor.academy), by [Ciara Burkett](/ep/profile/sIuAp0daDya)
-
-*   A great resource by a fellow Captain who&rsquo;s also new to programming and Meteor
+    A great resource by a fellow Captain who&rsquo;s also new to programming and Meteor
 
 *   <u>[EventedMind](https://www.eventedmind.com/)</u>, by Chris Mather
-
-*   Intermediate and advanced Meteor topics
+    Intermediate and advanced Meteor topics
 
 *   <u>[Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)</u>, by Stephan Hochhaus
-
-*   Compilation of Meteor tutorials
+    Compilation of Meteor tutorials
 
 *   [Building a Reactive Website with Meteor](https://gibbon.co/lukasvan3l/building-a-reactive-website-with-meteor)
+    A step by step guide people can sign up to and follow along with.
 
-*   A step by step guide people can sign up to and follow along with.
-
-<undefined><li>**I&rsquo;m not a Captain but I&rsquo;d like to be!**</li></undefined>
+**I&rsquo;m not a Captain but I&rsquo;d like to be!**
 
 If you&rsquo;re interested in becoming a Captain, you&rsquo;ve already taken the first step by being involved enough to read this document! Get in touch with any of the MDG Community team members below, or approach your favourite Captain, and we can go from there. This is a pretty informal group of people trying to do what they can for the community, so we&rsquo;ll&nbsp; welcome you with open arms. :)
 
@@ -100,22 +88,19 @@ If you&rsquo;re interested in becoming a Captain, you&rsquo;ve already taken the
 The Meteor Community, Captains, and meetups are supported by a dedicated team at MDG (Meteor Development Group, the company behind Meteor). Over time you&rsquo;ll probably interface with a lot of Meteor&rsquo;s team, including the core devs, but here are some names you&rsquo;ll likely come across more often:
 
 *   [Alice](https://twitter.com/yaliceme)
-
-*   Alice is a Community Manager at MDG and, beyond being super friendly, also handles social media stuff.
+    Alice is a Community Manager at MDG and, beyond being super friendly, also handles social media stuff.
 
 *   [Yuriy](https://twitter.com/html5cat)
-
-*   Yuriy is a Community Engineer and will probably be someone you talk to a lot about operational things like running a meetup, getting swag, etc. (Fun fact: Yuriy used to be a Captain too!)
+    Yuriy is a Community Engineer and will probably be someone you talk to a lot about operational things like running a meetup, getting swag, etc. (Fun fact: Yuriy used to be a Captain too!)
 
 *   [Robert](https://twitter.com/rdickert)
-
-*   Robert is a Community Engineer who is runs Meteor&rsquo;s speaker program. He is interested in promoting talks by the community to non-Meteor meetups (e.g., js, Rails, Mongodb, Mobile, Front End, Novice, etc.). He can help you find places to speak and can help you with getting your presentation ready. (Fun fact: Robert is still captain of Meteor Boulder and helped found the Velocity testing project!)
+    Robert is a Community Engineer who is runs Meteor&rsquo;s speaker program. He is interested in promoting talks by the community to non-Meteor meetups (e.g., js, Rails, Mongodb, Mobile, Front End, Novice, etc.). He can help you find places to speak and can help you with getting your presentation ready. (Fun fact: Robert is still captain of Meteor Boulder and helped found the Velocity testing project!)
 
 **Meet the other Captains**
 
 *   The [meteor-captains Google Group](https://meteor-captains@googlegroups.com)
 
-        *   As a Captain, you&rsquo;ll be added to the Google Group. Feel free to introduce yourself, ask us anything, and make sure to share when you do something cool!
+    As a Captain, you&rsquo;ll be added to the Google Group. Feel free to introduce yourself, ask us anything, and make sure to share when you do something cool!
 
 ## Your first meetup
 
@@ -123,13 +108,13 @@ The Meteor Community, Captains, and meetups are supported by a dedicated team at
 
 *   **Good venue&nbsp;**
 
-        *   Right size&nbsp; - cosy and full is better than huge and empty
+    *   Right size&nbsp; - cosy and full is better than huge and empty
     *   Good acoustics - can people hear the speaker, can people talk without distracting others?)
-    *   _feng shui _(You&rsquo;re gonna struggle to have a good event in a bad space, and )
+    *   _feng shui_ (You&rsquo;re gonna struggle to have a good event in a bad space)
 
 *   **<s>&nbsp;Good&nbsp;</s> people**
 
-        *   The more the merrier. Good ones if you can but you can&rsquo;t be picky ;-) You can have a great meetup with a handful of friends, but it&rsquo;s really nice to watch a meetup grow.
+    *   The more the merrier. Good ones if you can but you can&rsquo;t be picky ;-) You can have a great meetup with a handful of friends, but it&rsquo;s really nice to watch a meetup grow.
     *   Have an interesting subject (Mobile, Testing, Security, Performance are good ones)
     *   Promote it.
 
@@ -166,7 +151,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 *   Finding out what kind of people are coming
 *   If you are planning to give a talk about Meteor, here are some talks by Meteor founders/ core developers that you may find valuable. Feel free to incorporate any material from these into your own talk. You can find many more on the <u>[Meteor YouTube channel](http://videos.meteor.com)</u>.:
 
-        *   <u>[Naomi Seyfer’s Meteor 101 at Devshop 2](https://www.youtube.com/watch?v=lSAKFkxq4jA)</u>
+    *   <u>[Naomi Seyfer’s Meteor 101 at Devshop 2](https://www.youtube.com/watch?v=lSAKFkxq4jA)</u>
     *   <u>[Geoff Schmidt&rsquo;s DjangoCon Keynote](http://www.youtube.com/watch?v=34_oKFx43O4&amp;feature=colike)</u>
     *   <u>[Matt DeBergalis&rsquo; Html5DevConf talk](http://www.youtube.com/watch?v=vpp-8gkPWVE)</u>
     *   <u>[Matt DeBergalis&rsquo; RealtimeConf talk](http://2012.realtimeconf.com/video/matt-debergalis)</u>
@@ -193,7 +178,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 *   ambient noise level: can people hear each other speak?
 *   make sure there are non-alcoholic beverages available and that your venue does not bar those below legal drinking age from attending
 
-        *   if there’s a young talented coder, he/she should be able to attend, regardless of legal drinking age in your country
+    *   if there’s a young talented coder, he/she should be able to attend, regardless of legal drinking age in your country
 
 **Maximizing turnout**
 
@@ -201,7 +186,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 *   start with event capacity &lt; 0.5 actual capacity, and increase it over time
 *   if it’s not your first event:
 
-        *   schedule your next event pretty soon (maybe within a week) of your last event when it’s fresh in people’s minds
+    *   schedule your next event pretty soon (maybe within a week) of your last event when it’s fresh in people’s minds
     *   ask the room at the end of your event whether this is a good day of the week for them (possibly surface any recurring conflicting tech events in the area)
 
 *   make sure to enable the waitlist feature
@@ -220,7 +205,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 
 *   If there are local women coder study groups or meetup groups (e.g. “Women Who Code” group in SF), try to cross-post about 1.5-2 days prior to main announcement (note: meetup’s default option is to send out the initial announcement)
 
-        *   personalize invite emails to developers who are minorities or women
+    *   personalize invite emails to developers who are minorities or women
     *   there are major cultural differences that emerge between 2% female and 20% female (diversity should not be a last-minute coat of paint)
     *   have shirts in women’s sizes on hand (_not_ just babydoll sizes)
 
@@ -232,19 +217,12 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 
 *   Find other similar meetup groups and go talk at their meetups if it&rsquo;s allowed, it could come of as steeling people from their group.
 *   Find Facebook groups/pages and get them to promote it
-
 *   We got plenty of people from my old programme Interaction Design by posting a link on their page.
-
 *   Mail people you know, maybe someone with contacts/mailing lists to people at your old School or something similar.
-
 *   We got a couple of people up by me mailing the responsible at the Computer Science Bachelor program at Chalmers, he was happy to send it through to a couple people, I can&rsquo;t wait for him to get the courage to add it to their massive mailing list that goes to both new and old people at the program.
-
 *   Facebook ads?
-
 *   Just putting it out there, could be an idea.. I&rsquo;ve used it with great success for small running competitions
-
 *   Mailchimp -- I&rsquo;d love a better designed mail than that of the standard Meetup.
-
 *   Meetup doesn&rsquo;t do its job to get people to coming back and also there&rsquo;s no statistics on how many read the mail, as well as how many clicked links in the mail.
 *   Yeah, Meetup has lists that you can email to in order to send to the group, so I guess you could use those as the recipient in MailChimp...although not quite sure how to add it to the list without double opt-in (which implies an email sent to the whole group). Is it within MailChimp&rsquo;s policies to just add it?
 
@@ -256,7 +234,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 
 **Your job as a Captain during the meetup**
 
-...
+<TODO>
 
 *   &nbsp;Never knew it was so easy! :P
 
@@ -269,7 +247,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 
 **How to live code a Meteor app**
 
-...
+<TODO>
 
 **Best practices for handling lightning talks or talks by speakers**
 
@@ -285,7 +263,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 
 **Winding down with a social event**
 
-...
+<TODO>
 
 ## After the meetup
 
@@ -296,7 +274,7 @@ Logistics, sponsors and set-lists. You&rsquo;re now an event organiser. What&rsq
 
 **Identifying key attendees**
 
-...
+<TODO>
 
 **Planning the next meetup**
 
