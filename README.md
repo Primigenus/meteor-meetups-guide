@@ -1,4 +1,6 @@
-meteor-meetups-guide
+Meteor Meetups Guide
 ====================
 
-A guide to organising Meteor meetups.
+This repository hosts a guide for organising [Meteor](http://meteor.com) meetups.
+
+See guide.md for the actual guide.
