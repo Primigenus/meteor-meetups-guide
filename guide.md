@@ -55,6 +55,18 @@ Knowing where people hang out and ask questions about Meteor will help you keep 
 *   [Github](https://github.com/meteor/meteor/issues) issues
     Bugs and patches for Meteor are generally reported here and this can be a good place to check just after a new release in case some hairy things are going on.
 
+*   [Meteor Forums](https://forums.meteor.com/)
+    Official meteor forums, meteor-talk and meteor-core are no longer official forums.
+The team has put years of work into designing exactly the kind of collaborative forum we need for our community. 
+Like Stack Overflow, relies on a reputation system and community moderation to keep the quality level high.  
+
+When you post a new topic, please put it in the right category. [Categories](https://forums.meteor.com/categories)
+No one likes spam, so take this in consideration before just posting here.
+
+If you need the answer to a technical question about how to do something in Meteor, the best place to start is Stack Overflow, a popular programming question and answer site. Stack Overflow is designed to help make sure answers to popular questions stay up to date as Meteor changes, so we try to steer most technical Q&A there.
+
+To contribute bug reports and patches to the Meteor core itself, the right place is our GitHub6 repository. Before you post a bug or patch, please first read the [Contributing to Meteor guidelines](https://github.com/meteor/meteor/wiki/Contributing-to-Meteor)
+
 **Resources in the Meteor community**
 
 Knowing what&rsquo;s going on in the community is one step, but it&rsquo;s also important to have an up-to-date sense of what the best resources are for learning Meteor and getting better at it. Many software developers will be transitioning from a different platform to Meteor, but you should also keep in mind there will be plenty of fresh faces starting out with programming with Meteor, as well as more experienced devs looking to hone and improve their skills. Here are some resources you can refer them to:
